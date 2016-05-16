@@ -4,3 +4,7 @@ h1{
 img{
   width:50%;
 }
+#BG{
+  border:1px solid orange;
+  width:200px;
+}
