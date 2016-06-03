@@ -1,5 +1,5 @@
 h1{
-  color:red;
+  color:black;
 }
 img{
   width:50%;
@@ -15,5 +15,5 @@ img{
 }
 .options{
   display:inline-block;
-  width: 30%;
+  width: 20%;
 }
