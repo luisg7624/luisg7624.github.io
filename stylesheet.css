@@ -17,3 +17,6 @@ img{
   display:inline-block;
   width: 20%;
 }
+#kermit{
+  display: none;
+}
