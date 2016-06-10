@@ -23,3 +23,9 @@ img{
 body{
   background: green;
 }
+#a_m_header{
+  display:none;
+}
+#a_m_par{
+  display:none;
+}
