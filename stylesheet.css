@@ -24,7 +24,7 @@ body{
   background: green;
 }
 #a_m_header{
-  display:none;
+  display:relative;
 }
 #a_m_par{
   display:none;
